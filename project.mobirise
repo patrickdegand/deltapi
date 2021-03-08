@@ -71,7 +71,8 @@
     "global_footer_custom": "<script>!function(){if(document.getElementById('top-1')){var element = document.getElementById('top-1');element.parentNode.removeChild(element);}}();</script>",
     "spellingSwitch": true,
     "mbrsiteDomain": "n3jjjpe8wq",
-    "mbrextSwitcher": false
+    "mbrextSwitcher": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -80,7 +81,7 @@
         "title": "Home",
         "meta_descr": "deltapi mobirise extensions mbrext",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<script>\n    $(':submit').on('click', function () {\n\tvar fileUrl =$(this).attr(\"data-file\");\n    window.location = fileUrl;\n    });\n</script>",
         "html_before": ""
       },
       "components": [

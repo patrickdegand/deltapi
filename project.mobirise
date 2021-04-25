@@ -72,7 +72,7 @@
     "spellingSwitch": true,
     "mbrsiteDomain": "n3jjjpe8wq",
     "mbrextSwitcher": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {

@@ -8,6 +8,10 @@ $(document).ready(function(){
 		var fileUrl =$(this).attr("data-file");
 		window.location = atob(fileUrl);
 	});
+	$('[data-file]').on('click', function () {
+		var fileUrl =$(this).attr("data-file");
+		window.location =  atob(fileUrl);
+	});
 });
 function mailtodeltapi(){
 	var dataemail="ZGVsdGFfcGlAb3V0bG9vay5mcg=="
@@ -17,4 +21,6 @@ function mailtodeltapi(){
 	if(document.getElementById('top-1')){
 	var element = document.getElementById('top-1');
 	element.parentNode.removeChild(element);
-}}();
+	};
+	
+}();

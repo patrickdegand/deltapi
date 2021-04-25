@@ -8,7 +8,7 @@ $(document).ready(function(){
 		var fileUrl =$(this).attr("data-file");
 		window.location = atob(fileUrl);
 	});
-	$('[data-file]').on('click', function () {
+	$('a[data-file]').on('click', function () {
 		var fileUrl =$(this).attr("data-file");
 		window.location =  atob(fileUrl);
 	});

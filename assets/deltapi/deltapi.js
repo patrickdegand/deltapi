@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
 	$('[data-email]').on('click', function () {
 		var base64email =$(this).attr("data-email");

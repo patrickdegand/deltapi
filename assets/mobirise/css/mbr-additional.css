@@ -682,80 +682,69 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sqcZcdnFz0 {
+.cid-sqd3kvVMbh {
   padding-top: 8rem;
   padding-bottom: 0rem;
   background-color: #fafafa;
 }
 @media (max-width: 991px) {
-  .cid-sqcZcdnFz0 .image-wrapper {
+  .cid-sqd3kvVMbh .image-wrapper {
     margin-bottom: 2rem;
   }
 }
-.cid-sqcZcdnFz0 .image-wrapper img {
+.cid-sqd3kvVMbh .image-wrapper img {
   width: 100%;
   object-fit: cover;
 }
 @media (min-width: 992px) {
-  .cid-sqcZcdnFz0 .text-wrapper {
+  .cid-sqd3kvVMbh .text-wrapper {
     padding: 0 2rem;
   }
 }
 @media (max-width: 768px) {
-  .cid-sqcZcdnFz0 .text-wrapper {
+  .cid-sqd3kvVMbh .text-wrapper {
     margin-bottom: 2rem;
   }
 }
-.cid-sKFyzAjn14 {
+.cid-sLYSrbqyLR {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-sKFyzAjn14 .mbr-iconfont {
+.cid-sLYSrbqyLR .mbr-iconfont {
   font-size: 1.4rem !important;
   font-family: 'Moririse2' !important;
   color: #6592e6;
   margin-left: 1rem;
 }
-.cid-sKFyzAjn14 .panel-group {
+.cid-sLYSrbqyLR .panel-group {
   border: none;
 }
-.cid-sKFyzAjn14 .panel-title {
+.cid-sLYSrbqyLR .panel-title {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-.cid-sKFyzAjn14 .panel-body,
-.cid-sKFyzAjn14 .card-header {
+.cid-sLYSrbqyLR .panel-body,
+.cid-sLYSrbqyLR .card-header {
   padding: 1rem 0;
 }
-.cid-sKFyzAjn14 .panel-title-edit {
+.cid-sLYSrbqyLR .panel-title-edit {
   color: #000000;
 }
-.cid-sKFyzAjn14 .card .card-header {
+.cid-sLYSrbqyLR .card .card-header {
   background-color: transparent;
   margin-bottom: 0;
 }
-.cid-sKFyzAjn14 form .mbr-section-btn {
+.cid-sLYSrbqyLR form .mbr-section-btn {
   text-align: center;
   margin-bottom: 1.2rem;
 }
-.cid-sKFyzAjn14 form .mbr-section-btn .btn {
+.cid-sLYSrbqyLR form .mbr-section-btn .btn {
   width: 100%;
   height: 100%;
 }
-.cid-sq6kXVlZal {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
-}
-.cid-sLTUedE5FX {
-  background-color: #bbbbbb;
-}
-.cid-sLTUedE5FX #spreadsheet {
-  overflow-x: auto;
-}
-.cid-sq6kXVlZal {
+.cid-sqd3YxbxHH {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;

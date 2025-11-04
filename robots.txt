@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://patrickdegand.github.io/deltapi/sitemap.xml
